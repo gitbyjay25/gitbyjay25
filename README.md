@@ -9,7 +9,7 @@ I build end-to-end AI applications, optimize predictive models, and design intel
 
 * **1st Runner-Up** | *IIT Roorkee Pan-India Hackathon (44-Hour)* — Built data-driven systems under intense timelines with Team ArcticX.
 * **2nd Runner Up ** | *Watch The CODE Hackathon (GEHU Haldwani)*
-* ** &Community Choice Award** | *Watch The CODE Hackathon (GEHU Haldwani)*
+* **Community Choice Award** | *Watch The CODE Hackathon (GEHU Haldwani)*
 * **2nd Runner-Up** | *AI Innovation Challenge (MIET Kumaun)* — Designed and pitched localized Innovative AI solutions.
 * **Global Rank 161** | *Kaggle Playground Series (S5E12)* — Optimized machine learning models against a global pool of data scientists.
 
