@@ -1,44 +1,67 @@
-# Hi there, I'm Jagdish Chandra Bhatt 👋 
-### Machine Learning Engineer & AI Engineer 
+# Hey,  I'm Jagdish 👋 
+### Machine Learning Engineer & AI Engineer
 
-I build end-to-end AI applications, optimize predictive models, and design intelligent systems to solve complex, real-world problems. From fine-tuning gradient boosting algorithms to engineering responsive frameworks, I focus on turning high-caliber code into actionable tech.
+I build end-to-end AI applications, optimize predictive models, and design intelligent multi-agent systems to solve complex, production-grade engineering problems. From architecting asynchronous graph-based LLM orchestration to training molecular generation pipelines, I focus on turning advanced research into scalable code.
 
 ---
 
 ## 🚀 Hackathon & Engineering Track Record
 
-* **1st Runner-Up** | *IIT Roorkee Pan-India Hackathon (44-Hour)* — Built data-driven systems under intense timelines with Team ArcticX.
-* **2nd Runner Up ** | *Watch The CODE Hackathon (GEHU Haldwani)*
-* **Community Choice Award** | *Watch The CODE Hackathon (GEHU Haldwani)*
-* **2nd Runner-Up** | *AI Innovation Challenge (MIET Kumaun)* — Designed and pitched localized Innovative AI solutions.
-* **Global Rank 161** | *Kaggle Playground Series (S5E12)* — Optimized machine learning models against a global pool of data scientists.
+* **1st Runner-Up** | *IIT Roorkee — Merge Conflict Hackathon (44-Hour)* — Selected from 114 finalist projects after building data-driven systems under intense competition conditions with Team ArcticX.
+* **2nd Runner Up & Community Choice Award** | *Watch The CODE Hackathon (GEHU Haldwani)* — Secured a top podium finish and won the vote of all fellow competing teams for Best Project with **CogniSafe** (competing solo as Team BackupPlan).
+* **2nd Runner-Up** | *AI Innovation Challenge (MIET Kumaun)* — Designed, trained, and pitched localized innovative AI solutions.
+* **Global Rank 161** | *Kaggle Playground Series (S5E12)* — Optimized advanced gradient boosting models against a global pool of data scientists.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Core Skills & Domain Expertise
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) |
-| **Data Science & ML** | ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-111111?style=flat-square) ![LightGBM](https://img.shields.io/badge/LightGBM-008080?style=flat-square) ![CatBoost](https://img.shields.io/badge/CatBoost-F33E42?style=flat-square) ![Optuna](https://img.shields.io/badge/Optuna-232F3E?style=flat-square) |
-| **Agentic AI & Automation** | ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square) `Agentic AI Frameworks` `Web Scraping` |
-| **Web & Core Engineering** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) `System Architecture` `API Design` |
+### 🧠 AI, NLP & Machine Learning
+* **Modeling & Fine-Tuning:** Model Training & Fine-tuning, Evaluation Frameworks, Semantic Modeling, Natural Language Query Parsing, Document Understanding, Metric Extraction.
+* **Architectures:** Generative Adversarial Networks (GANs), Convolutional Neural Networks (CNNs), Retrieval-Augmented Generation (RAG) Pipelines, Advanced Prompt Engineering, Multi-Agent Coordination.
+* **Frameworks & Tools:** PyTorch, Scikit-learn, Pandas, NumPy, XGBoost, LightGBM, CatBoost, Optuna (Model Evaluation & Optimization).
+
+### ⚙️ Agentic AI, Automation & Core Engineering
+* **Orchestration & Agents:** LangGraph, LangChain, FastMCP (Model Context Protocol), Tool-Augmented Agents.
+* **Automation & Pipelines:** Selenium, Multi-threaded Web Scraping, Real-time Data Pipelines.
+* **Backend & Infra:** Node.js, React, Vite, Next.js, FastAPI, WebSockets, Redis, OpenTelemetry (Observability), Azure VMs.
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Production-Grade Featured Projects
 
-### 🧠 [NexArch](https://github.com/gitbyjay25/NexArch)
-An advanced architecture framework focusing on modular backend design and efficient data handling pipelines.
-Tags: `python` `backend` `system-architecture` `modular-design` `developer-tools`
+### 🧠 [NexArch](https://github.com/gitbyjay25/NexArch) — Runtime-Driven Architecture Intelligence Platform
+> **[Demo](#)** | **[Live Project](#)** | **[GitHub](https://github.com/gitbyjay25/NexArch)** &nbsp;&middot;&nbsp; *Jan 2026*
+>
+> `Python` `LangGraph` `LangChain` `FastAPI` `Azure-OpenAI` `Gemini` `FastMCP` `Redis` `OpenTelemetry` `Next.js` `WebSockets` `Azure-VMs`
 
-### 🛡️ [Pindora_shield](https://github.com/gitbyjay25/Pindora_shield)
-An intelligent security tracking and mitigation platform built to safeguard digital ecosystems.
-Tags: `python` `cybersecurity` `security-tools` `threat-mitigation` `automation`
+* **Multi-Agent LLM Orchestration:** Built a LangGraph-powered agent system using Azure OpenAI & Gemini to reason over 10K+ live microservice traces/day, reconstructing production architectures and generating real-time dependency graphs without source-code access.
+* **Prompt Engineering & Tool-Augmented Agents:** Designed structured prompts and tool-use schemas via FastMCP for LLM agents to perform bottleneck classification, service dependency inference, and architecture comparison across latency, scalability, and cloud cost dimensions.
+* **LLM Optimization Engine:** Implemented a pipeline generating 3 architecture variants per workflow; agents evaluate trade-offs and recommend the best variant, reducing manual system analysis effort by ~60%.
+* **Production Observability via OpenTelemetry:** Developed a lightweight Python SDK capturing telemetry with <5% runtime overhead, integrated across distributed services for real-time signal collection.
+* **Alpha Codebase Generation:** Automated code rewriting against the selected architecture variant, packaging output as a deployable ZIP—closing the loop from insight to implementation.
+* **Scalable Deployment:** Deployed backend architecture on Azure VMs; async graph-based reasoning pipelines reduced architecture inference latency by ~60%.
+
+---
+
+### 🛡️ [Pindora_shield](https://github.com/gitbyjay25/Pindora_shield) — AI Drug Discovery Framework
+> **[GitHub](https://github.com/gitbyjay25/Pindora_shield)** &nbsp;&middot;&nbsp; *Dec 2025 – Jan 2026*
+>
+> `Python` `PyTorch` `GANs` `TenGAN` `SMILES` `FastAPI` `React` `Vite` `Azure-VM`
+
+* **High-Throughput Molecule Generation:** Built a scalable AI drug discovery platform evaluating 10K+ molecules per run via GANs and multi-model ML pipelines, reducing candidate screening time by >90%.
+* **Generative Pipeline:** Implemented a TenGAN-based molecular generation pipeline producing 10,000+ chemically valid SMILES per query, providing 8–10x coverage vs baseline retrieval.
+* **Multi-Model Evaluation Logic:** Trained 5 independent predictive ML models (IC50, target association, clinical phase, drug-likeness); built model evaluation logic to assess prediction confidence and filter low-reliability candidates—directly analogous to evaluating LLM outputs for accuracy and hallucination risk.
+* **REST Orchestration:** Automated an end-to-end 6-stage pipeline (disease input → target mapping → molecule generation → multi-model property prediction → filtering → ranking) via FastAPI.
+* **Fault-Tolerant Infrastructure:** Engineered failure-safe execution logic preventing invalid inputs, model crashes, and partial pipeline failures in high-volume batch inference settings.
+
+---
 
 ### 🔍 [RTER (Real-Time Embedding & Retrieval)](https://github.com/gitbyjay25/RTER)
 An automated error scanning and logs processing pipeline utilizing high-performance embeddings for real-time diagnostics.
 Tags: `python` `machine-learning` `embeddings` `error-scanner` `log-analysis`
+
+---
 
 ### 🕸️ [MagicBricks Scraper](https://github.com/gitbyjay25/web_scapper)
 A robust, multithreaded data pipeline engineered with Python and Selenium to extract, clean, and structure thousands of real estate data points.
@@ -57,7 +80,7 @@ Tags: `python` `selenium` `web-scraping` `data-pipeline` `automation`
 
 ## 🤝 Let's Connect!
 
-* **LinkedIn:** [linkedin.com/in/jagdish-chandra-bhatt](https://www.linkedin.com/in/jagdish-chandra-bhatt-30a340281)
+* **LinkedIn:** [linkedin.com/in/jagdish-chandra-bhatt](https://www.linkedin.com/in/jagdish-chandra-bhatt-30a340281/)
 * **Email:** [jagdishbhatt584@gmail.com](mailto:jagdishbhatt584@gmail.com)
 
 🚀 *Always open to exploring complex ML modeling, AI engineering roles, or collaborating on high-stakes hackathons.*
