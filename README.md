@@ -1,58 +1,60 @@
-# Hey, I'm Jagdish 👋 
-### Machine Learning Engineer & AI Engineer
+# Hey, I'm Jagdish 👋
+### 📊 Data & Business Analyst | 🧠 AI & ML Engineer
 
-I build end-to-end AI applications, optimize predictive models, and design intelligent multi-agent systems to solve complex, production-grade engineering problems. From architecting asynchronous graph-based LLM orchestration to training molecular generation pipelines, I focus on turning advanced research into scalable code.
+I bridge the gap between raw data and intelligent systems. My focus lies in extracting actionable business insights through data analytics, optimizing predictive models, and architecting production-grade AI agents to solve complex problems.
 
----
+<!-- Your GitHub Metrics SVG will render here -->
+<p align="center">
+  <img src="https://github.com/gitbyjay25/gitbyjay25/blob/main/github-metrics.svg" alt="Metrics" width="100%">
+</p>
 
-## 🚀 Hackathon & Engineering Track Record
+### 🛠️ The Tech Arsenal
+*Showing the full pipeline from Data Analysis to AI Engineering:*
 
-- **1st Runner-Up** | *IIT Roorkee — Merge Conflict Hackathon (44-Hour)* — Selected from 114 finalist projects after building data-driven systems under intense competition conditions with Team ArcticX.
-- **2nd Runner Up & Community Choice Award** | *Watch The CODE Hackathon (GEHU Haldwani)* — Secured a top podium finish and won the vote of all fellow competing teams for Best Project with *CogniSafe* (competing solo as Team BackupPlan).
-- **2nd Runner-Up** | *AI Innovation Challenge (MIET Kumaun)* — Designed, trained, and pitched localized innovative AI solutions.
-- **Global Rank 161** | *Kaggle Playground Series (S5E12)* — Optimized advanced gradient boosting models against a global pool of data scientists.
+**📈 Data & Business Analytics**
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
 
----
+**🤖 Machine Learning & Optimization**
+<p align="left">
+  <img src="https://img.shields.io/badge/XGBoost-172434?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LightGBM-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Optuna-20232A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+</p>
 
-## 🛠️ Core Skills & Domain Expertise
-
-### 🧠 AI, NLP & Machine Learning
-- *Modeling & Fine-Tuning:* Model Training & Fine-tuning, Evaluation Frameworks, Semantic Modeling, Natural Language Query Parsing, Document Understanding, Metric Extraction.
-- *Architectures:* Generative Adversarial Networks (GANs), Convolutional Neural Networks (CNNs), Retrieval-Augmented Generation (RAG) Pipelines, Advanced Prompt Engineering, Multi-Agent Coordination.
-- *Frameworks & Tools:* PyTorch, Scikit-learn, Pandas, NumPy, XGBoost, LightGBM, CatBoost, Optuna (Model Evaluation & Optimization).
-
-### ⚙️ Agentic AI, Automation & Core Engineering
-- *Orchestration & Agents:* LangGraph, LangChain, FastMCP (Model Context Protocol), Tool-Augmented Agents.
-- *Automation & Pipelines:* Selenium, Multi-threaded Web Scraping, Real-time Data Pipelines.
-- *Backend & Infra:* Node.js, React, Vite, Next.js, FastAPI, WebSockets, Redis, OpenTelemetry (Observability), Azure VMs.
-
----
-
-## 🌟 Production-Grade Featured Projects
-
-### 🧠 [NexArch](https://github.com/gitbyjay25/NexArch) — Runtime-Driven Architecture Intelligence Platform
-> *Demo* | *Live Project* | *GitHub* &nbsp;·&nbsp; *Jan 2026*
->
-> `Python` `LangGraph` `LangChain` `FastAPI` `Azure-OpenAI` `Gemini` `FastMCP` `Redis` `OpenTelemetry` `Next.js` `WebSockets` `Azure-VMs`
-
-![NexArch Architecture Intelligence Platform Ecosystem](vcb.jpg)
-
-- **Multi-Agent LLM Orchestration:** Built a LangGraph-powered agent system using Azure OpenAI & Gemini to reason over 10K+ live microservice traces/day, reconstructing production architectures and generating real-time dependency graphs without source-code access.
-- **Prompt Engineering & Tool-Augmented Agents:** Designed structured prompts and tool-use schemas via FastMCP for LLM agents to perform bottleneck classification, service dependency inference, and architecture comparison across latency, scalability, and cloud cost dimensions.
-- **LLM Optimization Engine:** Implemented a pipeline generating 3 architecture variants per workflow; agents evaluate trade-offs and recommend the best variant, reducing manual system analysis effort by ~60%.
-- **Production Observability via OpenTelemetry:** Developed a lightweight Python SDK capturing telemetry with <5% runtime overhead, integrated across distributed services for real-time signal collection.
-- **Alpha Codebase Generation:** Automated code rewriting against the selected architecture variant, packaging output as a deployable ZIP—closing the loop from insight to implementation.
-- **Scalable Deployment:** Deployed backend architecture on Azure VMs; async graph-based reasoning pipelines reduced architecture inference latency by ~60%.
+**🌐 AI Engineering & Multi-Agent Systems**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
 
 ---
+### 🚀Hackathons & Engineering Track Record
+- **Global Rank 161** | *Kaggle Playground Series (S5E12)* — Optimized advanced gradient boosting models.
+- **1st Runner-Up** | *IIT Roorkee (44-Hour Hackathon)* — Built data-driven systems under intense competition conditions.
+- **2nd Runner Up & Community Choice Award** | *Watch The CODE Hackathon* — Developed CogniSafe (Lone Wolf Award).
 
-### 🛡️ [Pindora_shield](https://github.com/gitbyjay25/Pindora_shield) — AI Drug Discovery Framework
-> *GitHub* &nbsp;·&nbsp; *Dec 2025 – Jan 2026*
->
-> `Python` `PyTorch` `GANs` `TenGAN` `SMILES` `FastAPI` `React` `Vite` `Azure-VM`
+---
+### 🌟 Featured Architecture & Production-Grade Projects
 
-- **High-Throughput Molecule Generation:** Built a scalable AI drug discovery platform evaluating 10K+ molecules per run via GANs and multi-model ML pipelines, reducing candidate screening time by >90%.
-- **Generative Pipeline:** Implemented a TenGAN-based molecular generation pipeline producing 10,000+ chemically valid SMILES per query, providing 8–10x coverage vs baseline retrieval.
-- **Multi-Model Evaluation Logic:** Trained 5 independent predictive ML models (IC50, target association, clinical phase, drug-likeness); built model evaluation logic to assess prediction confidence and filter low-reliability candidates—directly analogous to evaluating LLM outputs for accuracy and hallucination risk.
-- **REST Orchestration:** Automated an end-to-end 6-stage pipeline (disease input → target mapping → molecule generation → multi-model property prediction → filtering → ranking) via FastAPI.
-- **Fault-Tolerant Infrastructure:** Engineered failure-safe execution logic preventing invalid inputs, model crashes, and partial pipeline failures in high-volume batch inference settings.
+#### 🧠 [NexArch — Runtime-Driven Architecture Intelligence Platform](https://github.com/gitbyjay25/NexArch)
+*Built a LangGraph-powered agent system using Azure OpenAI & Gemini to reason over 10K+ live microservice traces/day, generating real-time dependency graphs without source-code access.*
+* **Tech Stack:** Python, PyTorch, LangGraph, FastAPI, Azure
+* **Impact:** Reduced manual system analysis effort by ~60% and automated codebase generation against the selected architecture variant.
+
+#### 🛡️ [Pindora_shield — AI Drug Discovery Framework](https://github.com/gitbyjay25/Pindora_shield)
+*Built a scalable AI drug discovery platform evaluating 10K+ molecules per run via GANs and multi-model ML pipelines, reducing candidate screening time by >90%.*
+* **Tech Stack:** Python, PyTorch, GANs, TenGAN, FastAPI
+* **Impact:** Implemented a generative pipeline producing 10,000+ chemically valid SMILES per query, with multi-model evaluation logic to assess prediction confidence.
+
+#### 💼 [AML-Analytics-Platform](https://github.com/gitbyjay25/AML-Analytics-Platform-)
+*Building an Anti-Money Laundering (AML) Transaction Analytics Platform focusing on behavioral analytics instead of traditional rule-based alerts.*
+* **Tech Stack:** Python, Data Analytics, Behavioral Modeling
+* **Impact:** Transitions fraud detection from rigid static rules to dynamic, behavior-driven data insights.
