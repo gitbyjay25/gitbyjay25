@@ -1,12 +1,20 @@
-# Hey, I'm Jagdish 👋
-### 📊 Data & Business Analyst | 🧠 AI & ML Engineer
+<div align="center">
 
-I bridge the gap between raw data and intelligent systems. My focus lies in extracting actionable business insights through data analytics, optimizing predictive models, and architecting production-grade AI agents to solve complex problems.
+<!-- Animated Typing Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00FF7F&center=true&vCenter=true&width=800&lines=Hello,+I'm+Jagdish+Chandra+Bhatt+👋;AI+%26+Machine+Learning+Engineer;Data+%26+Business+Analyst;Bridging+Data+and+Intelligent+Systems" alt="Typing SVG" />
 
-<!-- Your GitHub Metrics SVG will render here -->
 <p align="center">
-  <img src="https://github.com/gitbyjay25/gitbyjay25/blob/main/github-metrics.svg" alt="Metrics" width="100%">
+  <i>My focus lies in extracting actionable business insights through data analytics, optimizing predictive models, and architecting production-grade AI agents to solve complex problems.</i>
 </p>
+
+<!-- Live Auto-Updating Stats Card -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gitbyjay25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="60%" />
+</p>
+
+</div>
+
+---
 
 ### 🛠️ The Tech Arsenal
 *Showing the full pipeline from Data Analysis to AI Engineering:*
@@ -36,12 +44,14 @@ I bridge the gap between raw data and intelligent systems. My focus lies in extr
 </p>
 
 ---
-### 🚀Hackathons & Engineering Track Record
+
+### 🚀 Hackathons & Engineering Track Record
 - **Global Rank 161** | *Kaggle Playground Series (S5E12)* — Optimized advanced gradient boosting models.
 - **1st Runner-Up** | *IIT Roorkee (44-Hour Hackathon)* — Built data-driven systems under intense competition conditions.
 - **2nd Runner Up & Community Choice Award** | *Watch The CODE Hackathon* — Developed CogniSafe (Lone Wolf Award).
 
 ---
+
 ### 🌟 Featured Architecture & Production-Grade Projects
 
 #### 🧠 [NexArch — Runtime-Driven Architecture Intelligence Platform](https://github.com/gitbyjay25/NexArch)
